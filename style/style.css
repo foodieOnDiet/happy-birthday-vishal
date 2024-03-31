@@ -6,6 +6,9 @@ body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
+.container div.nine {
+  top: 10vh !important;
+}
 
 .container {
   height: 100vh;
@@ -223,7 +226,7 @@ body {
 }
 
 .nine p {
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: lighter;
 }
 
@@ -293,7 +296,7 @@ body {
   }
 
   .nine p {
-    font-size: 0.5rem;
+    font-size: 0.9rem;
     font-weight: lighter;
   }
 }
